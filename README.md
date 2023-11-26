@@ -4,7 +4,7 @@
 
 - **🔭 I am presently immersed in the fascinating endeavor of harnessing the power of AI to pioneer transformative advancements in the realms of agriculture and science**
 
-- **🌱 I’m currently learning I’m currently immersing myself in the cutting-edge world of AI and ML algorithms, with a keen focus on their tangible applications in the tapestry of real life. 😊**
+- **🌱 I’m currently immersing myself in the cutting-edge world of AI and ML algorithms, with a keen focus on their tangible applications in the tapestry of real life. 😊**
 
 - **💬 Dive into a conversation with me about the intriguing realms of Data Science, the depths of Deep Learning, the marvels of Machine Learning, the nuances of NLP, the vision of Computer Vision, the logic of Mathematics, the wonders of Physics, and the innovations in Electronics…**
 
