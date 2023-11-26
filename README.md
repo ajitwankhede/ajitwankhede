@@ -2,11 +2,11 @@
 <h3 align="center">An AI maestro from the vibrant landscapes of India, brimming with fervor and innovation.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
 
-- **🔭 I am presently immersed in the fascinating endeavor of harnessing the power of AI to pioneer transformative advancements in the realms of agriculture and science**
+- **🔭 I am presently immersed in the fascinating endeavor of harnessing the power of AI to pioneer transformative advancements in the realms of Technology and Science**
 
 - **🌱 I’m currently immersing myself in the cutting-edge world of AI and ML algorithms, with a keen focus on their tangible applications in the tapestry of real life. 😊**
 
-- **💬 Dive into a conversation with me about the intriguing realms of Data Science, the depths of Deep Learning, the marvels of Machine Learning, the nuances of NLP, the vision of Computer Vision, the logic of Mathematics, the wonders of Physics, and the innovations in Electronics…**
+- **💬 Dive into a conversation with me about the intriguing realms of Data Science, depths of Deep Learning, marvels of Machine Learning, nuances of NLP, Computer Vision, logic of Mathematics, wonders of Physics, and the innovations in Electronics…**
 
 - **📫 How to reach me https://www.linkedin.com/in/ajitwankhede/**
 
